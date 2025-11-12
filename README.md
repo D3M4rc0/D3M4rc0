@@ -3,7 +3,7 @@
 # ¡Hola Mundo! 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/D3M4rc0/D3M4rc0/main/Diseño-Gráfico-Programación-Hacking.gif" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/D3M4rc0/D3M4rc0/a98a67d8229272b5bd2801aeffcfd97a2bafbf86/Dise%C3%B1o%20Gr%C3%A1fico%20Programaci%C3%B3n%20Hacking.gif" alt="Banner" width="100%">
 </div>
 
 ## ✨ Soy Marco ✨
@@ -313,3 +313,4 @@
 
 
 </div>
+
