@@ -22,7 +22,7 @@
 
 - 🎨 **Diseño Gráfico** y UI/UX
 - 💻 **Desarrollo de Software** (Web, Móvil, Desktop)
-- 🌐 **Desarrollo Web Full Stack**
+- 🌐 **Desarrollo Web y Desktop Full Stack**
 - 📱 **Aplicaciones Móviles** (Android)
 - 🐍 **Programación** en múltiples lenguajes
 - 🔐 **Ciberseguridad** y Hacking Ético
