@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Sobre mí
 
-💡 Me dedico a explorar diversos campos de la tecnología como **autodidacta** y **profesional**, combinando pasión con práctica constante. Mis áreas de interés incluyen:
+💡 Me dedico a explorar diversos campos de la tecnología como **autodidacta** y **profesional**, desde un nivel básico hasta avanzado, combinando pasión con práctica constante. Mis áreas de interés incluyen:
 
 - 🎨 **Diseño Gráfico** y UI/UX
 - 💻 **Desarrollo de Software** (Web, Móvil, Desktop)
