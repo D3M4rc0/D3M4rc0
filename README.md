@@ -2,11 +2,9 @@
 
 # ¡Hola Mundo! 👋
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3M4rc0/D3M4rc0/main/Diseño-Gráfico-Programación-Hacking.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3M4rc0/D3M4rc0/main/Diseño-Gráfico-Programación-Hacking.gif">
- <img alt="Banner" src="https://raw.githubusercontent.com/D3M4rc0/D3M4rc0/main/Diseño-Gráfico-Programación-Hacking.gif">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/D3M4rc0/D3M4rc0/main/banner.gif" alt="Banner" width="100%">
+</div>
 
 ## ✨ Soy Marco ✨
 
