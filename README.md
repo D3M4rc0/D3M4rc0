@@ -3,7 +3,7 @@
 # ¡Hola Mundo! 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/D3M4rc0/D3M4rc0/main/banner.gif" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/D3M4rc0/D3M4rc0/main/Diseño-Gráfico-Programación-Hacking.gif" alt="Banner" width="100%">
 </div>
 
 ## ✨ Soy Marco ✨
@@ -310,5 +310,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=D3M4r0&color=blueviolet&style=for-the-badge)
 
 ⭐️ From [Marco](https://github.com/D3M4r0)
+
 
 </div>
