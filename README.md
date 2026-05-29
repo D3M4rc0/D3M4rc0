@@ -262,11 +262,17 @@
 
 <div align="center">
   
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3M4rc0&show_icons=true&theme=radical)
+<!-- ![Marco's GitHub stats](https://github-stats-alpha.vercel.app/api?username=D3M4rc0&cc=000&tc=fff&ic=fff&bc=000) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3M4rc0&layout=compact&theme=radical)
+![Marco's GitHub stats](https://my-readme-marco-stats.vercel.app/api?username=D3M4rc0&show_icons=true&theme=radical)
+
+![Top Langs](https://my-readme-marco-stats.vercel.app/api/top-langs/?username=D3M4rc0&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D3M4rc0&theme=radical)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=D3M4rc0&theme=radical)
+
+<!-- ![Snake](https://raw.githubusercontent.com/D3M4rc0/D3M4rc0/output/github-contribution-grid-snake.svg) -->
 
 </div>
 
@@ -276,7 +282,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=D3M4rc0&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![trophy](https://my-readme-marco-trophy.vercel.app/?username=D3M4rc0&theme=radical&no-frame=true&margin-w=4)
 
 </div>
 
