@@ -2,10 +2,10 @@
 
 # ¡Hola Mundo! 👋
 
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/D3M4rc0/D3M4rc0/a98a67d8229272b5bd2801aeffcfd97a2bafbf86/Dise%C3%B1o%20Gr%C3%A1fico%20Programaci%C3%B3n%20Hacking.gif" alt="Banner" width="100%">
-</div> -->
-![Banner](https://github.com/D3M4rc0/D3M4rc0/blob/main/Dise%C3%B1o%20Gr%C3%A1fico%20Programaci%C3%B3n%20Hacking.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/D3M4rc0/D3M4rc0/refs/heads/main/Dise%C3%B1o%20Gr%C3%A1fico%20Programaci%C3%B3n%20Hacking.gif" alt="https://raw.githubusercontent.com/D3M4rc0/D3M4rc0/refs/heads/main/Dise%C3%B1o%20Gr%C3%A1fico%20Programaci%C3%B3n%20Hacking.png" width="100%">
+</div>
+<!--![Banner](https://github.com/D3M4rc0/D3M4rc0/blob/main/Dise%C3%B1o%20Gr%C3%A1fico%20Programaci%C3%B3n%20Hacking.gif)-->
 <!-- <img src="https://github.com/D3M4rc0/D3M4rc0/blob/main/Dise%C3%B1o%20Gr%C3%A1fico%20Programaci%C3%B3n%20Hacking.gif?raw=true" width="100%"> -->
 
 ## ✨ Soy Marco ✨
